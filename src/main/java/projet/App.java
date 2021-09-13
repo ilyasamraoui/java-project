@@ -2,6 +2,6 @@ package projet;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("hhjh ke");
+        System.out.println("h hjh ke");
     }
 }
